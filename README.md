@@ -14,3 +14,7 @@
 ## Pour en savoir plus ...
 Quelques informations sur la méthode associée au projet FilRouge :
 * http://prodageo.insa-rouen.fr/wiki/pmwiki.php?n=FilRouge.HomePage
+
+# Interventions
+
+ - la compilation Jekyll échoue sur la ligne 8 du _layout
